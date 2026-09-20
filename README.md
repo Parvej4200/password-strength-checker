@@ -1,5 +1,4 @@
-# password-strength-checker
-password-strength-checker
+
 # Password Strength Checker
 
 A Python program that checks whether a password is Weak, Medium, or Strong.
